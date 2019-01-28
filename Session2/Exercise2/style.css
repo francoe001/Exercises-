@@ -1,0 +1,114 @@
+
+header {
+    background-image: url(img/Screen\ Shot\ 2019-01-28\ at\ 5.01.24\ PM.png);
+    background-size: cover;
+    padding: 60px;
+}
+
+h1 {
+    color: white; 
+}
+
+.pageContent {
+    color: white;
+}
+
+.sidebar {
+    float: left;
+    position: fixed;
+    padding-top: 20px;
+    width: 150px;
+    height:100%;
+    text-align: center;
+    background-color: #111;
+}
+
+.sidebar a {
+    padding: 3px 24px 10px 20px;
+    color:#818181;
+    text-decoration: none;
+    display: block;
+}
+
+.sidebar a:hover {
+    background-color: rgba(255, 255, 255, 0.3)
+}
+
+
+.section-content {
+    margin: 1em;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+img {
+    padding: 25px;
+    border-top: 1px;
+}
+
+.tmodel {
+    width: 1000px;
+    height: 662px;
+}
+
+.eighty-eight {
+    float: left;
+}
+
+.corvette {
+    width: 1000px;
+    height: 662px;
+}
+.Jeep {
+    float: none;
+    width: 1000px;
+    height: 680px;
+}
+
+.purpleBeet {
+    float: right;
+    width: 900px;
+    height: 423px;
+}
+
+.GTR {
+    float: none;
+    width: 1000px;
+    height: 625px;
+}
+
+.random {
+    width:1000px;           
+    height: 562px; 
+}
+
+.leaf {
+    width: 1000px;
+    height: 562px;
+}
+
+.prius {
+    width: 1000px;
+    height: 750px;
+}
+
+.Roadster {
+    width: 1000px;
+    height: 562px;
+
+}
+
+footer {
+    background-image: url(img/Screen\ Shot\ 2019-01-28\ at\ 5.31.13\ PM.png);
+    background-size: cover;
+    padding: 60px;
+}
+
+.footer-notes {
+    color: #818181;
+    text-align: center;
+}
