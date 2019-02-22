@@ -1,0 +1,20 @@
+#show-something {
+    background: rgb(245, 72, 72);
+    color: #fff;
+    display: block;
+    padding: 10px;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;
+    width: 140px;
+}
+
+
+.blue {
+    background-color: blue;
+    color: white;
+
+}
+
+
+
